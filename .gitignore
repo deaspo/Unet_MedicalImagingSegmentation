@@ -129,3 +129,7 @@ dmypy.json
 *.png
 *.bat
 *.npy
+*.ini
+
+# Notebooks
+*.ipynb
