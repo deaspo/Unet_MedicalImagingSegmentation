@@ -133,3 +133,6 @@ dmypy.json
 
 # Notebooks
 *.ipynb
+
+# Folders for TensorBoard
+Graph/

@@ -7,6 +7,8 @@ import skimage.io as io
 import skimage.transform as trans
 from skimage import img_as_ubyte
 from pathlib import Path
+import matplotlib.pyplot as plt
+import pandas as pd
 
 Sky = [128,128,128]
 Building = [128,0,0]
